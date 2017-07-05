@@ -1,0 +1,15 @@
+package_sets:
+   - github: sonar-data-processing/package_set
+     branch: master
+
+layout:
+  - sonar_toolkit
+
+exclude_packages:
+   - simulation/.*
+   - gui/.*
+   - openscenegraph-tools
+   - tools/service_discovery
+   - tools/flexmock
+   - tools/utilrb
+   - qtruby

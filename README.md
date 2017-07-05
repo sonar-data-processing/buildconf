@@ -1,2 +1,4 @@
-# buildconf
-Build configuration for sonra data processing framework
+sonar_toolkit-buildconf
+=======================
+
+Sonar toolkit buildconf project
