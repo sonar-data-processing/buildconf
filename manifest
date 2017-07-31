@@ -1,9 +1,10 @@
 package_sets:
+   - github: rock-core/package_set
+   - github: rock-core/rock-package_set
    - github: sonar-data-processing/package_set
-     branch: master
 
 layout:
-  - sonar_toolkit
+   - sonar_toolkit
 
 exclude_packages:
    - simulation/.*
