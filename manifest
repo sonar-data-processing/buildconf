@@ -4,7 +4,9 @@ package_sets:
    - github: sonar-data-processing/package_set
 
 layout:
-   - sonar_toolkit
+   - sonar_toolkit-annotation
+   - sonar_toolkit-log2video
+   - sonar_toolkit-target_tracking
 
 exclude_packages:
    - simulation/.*

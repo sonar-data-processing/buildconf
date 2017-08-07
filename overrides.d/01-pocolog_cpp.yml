@@ -1,0 +1,3 @@
+- tools/pocolog_cpp:
+    github: gustavoneves12/tools-pocolog_cpp
+    branch: fix_segmentation_fault
